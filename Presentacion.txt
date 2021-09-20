@@ -4,7 +4,7 @@
 # Integrantes:                                                                                #
 # 1. (Indicar nombre completo)                                                                #
 # 2. Diana Carolina Rivera Romero                                                             #
-# 3. (Indicar nombre completo)                                                                #
+# 3. Andrés Felipe Arias Sánchez                                                              #
 # 4. (Indicar nombre completo)                                                                #
 #                                                                                             #
 ###############################################################################################
@@ -32,7 +32,7 @@ Presentación integrantes:
 
 2. Diana Carolina Rivera Romero - Rol manejado en el sprint - 
 
-3. Nombre Integrante 3 - Rol manejado en el sprint -
+3. Andrés Felipe Arias Sánchez - DBA
 
 4. Nombre Integrante 4 - Rol manejado en el sprint -
 
