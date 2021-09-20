@@ -2,7 +2,7 @@
 # Equipo CodeManagers                                                                         #
 #                                                                                             #
 # Integrantes:                                                                                #
-# 1. (Indicar nombre completo)                                                                #
+# 1. Cesar David Martinez Gamboa                                                                #
 # 2. Diana Carolina Rivera Romero                                                             #
 # 3. Andrés Felipe Arias Sánchez                                                              #
 # 4. (Indicar nombre completo)                                                                #
@@ -28,7 +28,7 @@ al cumplimiento de los requerimientos del sprint1.
 
 Presentación integrantes:
 
-1. Nombre Integrante 1 - Rol manejado en el sprint -
+1. Cesar David Martinez Gamboa - Rol manejado en el sprint -
 
 2. Diana Carolina Rivera Romero - Rol manejado en el sprint - 
 
